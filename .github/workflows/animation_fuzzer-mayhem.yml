@@ -49,6 +49,6 @@ jobs:
           --cmd '/out/animation_fuzzer'
         sarif-output: sarif
     - name: Upload SARIF file(s)
-      uses: github/codeql-action/upload-sarif@v1
+      uses: github/codeql-action/upload-sarif@v2
       with:
         sarif_file: sarif
