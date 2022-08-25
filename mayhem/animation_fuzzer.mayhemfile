@@ -1,0 +1,4 @@
+project: PROJECT
+target: animation_fuzzer
+cmds:
+- cmd: /out/animation_fuzzer
