@@ -1,0 +1,4 @@
+project: PROJECT
+target: pixbuf_file_fuzzer
+cmds:
+- cmd: /out/pixbuf_file_fuzzer

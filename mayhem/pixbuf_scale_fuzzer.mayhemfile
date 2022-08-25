@@ -1,0 +1,4 @@
+project: PROJECT
+target: pixbuf_scale_fuzzer
+cmds:
+- cmd: /out/pixbuf_scale_fuzzer

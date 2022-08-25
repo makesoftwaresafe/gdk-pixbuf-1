@@ -1,0 +1,4 @@
+project: PROJECT
+target: stream_fuzzer
+cmds:
+- cmd: /out/stream_fuzzer
